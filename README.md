@@ -17,9 +17,8 @@
 <h3 align="left">Want to learn:</h3>
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/>
-<img src="https://pngset.com/images/node-js-nodejs-number-symbol-text-recycling-symbol-transparent-png-1383018.png" alt="nodejs" width="40" height="40"/>
+<img src="https://www.pngkit.com/png/full/470-4704009_nodejs-rust-logo-node-js.png" alt="nodejs" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/>
 </p>
