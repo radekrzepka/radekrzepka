@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="mailto:rzepkaaradoslaw@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
