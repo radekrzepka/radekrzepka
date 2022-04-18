@@ -14,9 +14,14 @@
 <a href = "https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href = "https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">Currently learning:</h3>
+<p align="left">
+ <a href = "https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
+</p>
+
 <h3 align="left">Want to learn:</h3>
 <p align="left"> 
-<a href = "https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
 <a href = "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkit.com/png/full/470-4704009_nodejs-rust-logo-node-js.png" alt="nodejs" width="40" height="40"/></a>
 <a href = "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
 <a href = "https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/></a>
