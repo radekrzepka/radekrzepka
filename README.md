@@ -13,6 +13,7 @@
 <a href = "https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href = "https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href = "https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="left">Currently learning:</h3>
@@ -21,9 +22,10 @@
 </p>
 
 <h3 align="left">Want to learn:</h3>
-<p align="left"> 
-<a href = "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkit.com/png/full/470-4704009_nodejs-rust-logo-node-js.png" alt="nodejs" width="40" height="40"/></a>
-<a href = "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
-<a href = "https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/></a>
+<p align="left">
+<a href = "https://styled-components.com/" target="_blank" rel="noopener noreferrer"> <img src="https://styled-components.com/atom.png" alt="styled components" width="40" height="40"/></a>
 <a href = "https://webpack.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/></a>
+<a href = "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
+<a href = "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkit.com/png/full/470-4704009_nodejs-rust-logo-node-js.png" alt="nodejs" width="40" height="40"/></a>
+<a href = "https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/></a>
 </p>
