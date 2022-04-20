@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Radek</h1>
-<h3 align="left">About me: </h3>
-<p align="left">I am a 20-year old student of the IT technical school. In the future I would like to become a front-end developer or a full-stack developer.</p>
+<h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
+<h3 align="center">A wannabe front-end developer </h3>
+<img src = 'https://github-readme-stats.vercel.app/api?username=radekrzepka'>
 <h3 align="left">Contact with me: </h3>
 <p align="left"><a href="mailto:rzepkaaradoslaw@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt = "gmail icon"></a> </p>
 
