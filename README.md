@@ -2,7 +2,7 @@
 <h3 align="center">A wannabe front-end developer </h3>
 <img src = 'https://github-readme-stats.vercel.app/api?username=radekrzepka'>
 <h3 align="left">Contact with me: </h3>
-<p align="left"><a href="mailto:rzepkaaradoslaw@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt = "gmail icon"></a> </p>
+<p align="left"><a href="mailto:radoslawrzepka02@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt = "gmail icon"></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
