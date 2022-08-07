@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
 <h3 align="center">A wannabe front-end developer </h3>
-<img src = 'https://github-readme-stats.vercel.app/api?username=radekrzepka'>
+<a href="https://github.com/itaditya#gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 <h3 align="left">Contact with me: </h3>
 <p align="left"><a href="mailto:radoslawrzepka02@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt = "gmail icon"></a> </p>
 
