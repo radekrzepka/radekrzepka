@@ -3,7 +3,8 @@
 
 <h3 align="left">Contact with me: </h3>
 <p align="left">
-    <a href="mailto:radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat" alt="Gmail"></a> 
+    <a href="mailto:radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/rados%C5%82aw-rzepka-a87157248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat" alt="LinkedIn"></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
