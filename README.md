@@ -1,38 +1,50 @@
-<h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
+<h1 align="center">Hi 👋, I'm Radosław Rzepka</h1> 
 <h3 align="center">A wannabe front-end developer </h3>
-<a href="https://github.com/itaditya#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
+
 <h3 align="left">Contact with me: </h3>
-<p align="left"><a href="mailto:radoslawrzepka02@gmail.com"><img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt = "gmail icon"></a> </p>
+<p align="left">
+    <a href="mailto:radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat" alt="Gmail"></a> 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href = "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href = "https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href = "https://sass-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
-<a href = "https://developer.mozilla.org/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href = "https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
-<a href = "https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href = "https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href = "https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=flat" alt="Sass"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" alt="Firebase"/>    
+    <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" alt="Git"/>   
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" alt="GitHub"/>   
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" alt="Figma"/>  
 </p>
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
- <a href = "https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
 </p>
 
 <h3 align="left">Want to learn:</h3>
 <p align="left">
-<a href = "https://styled-components.com/" target="_blank" rel="noopener noreferrer"> <img src="https://styled-components.com/atom.png" alt="styled components" width="40" height="40"/></a>
-<a href = "https://webpack.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/></a>
-<a href = "https://jestjs.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg" alt="jest" width="40" height="40"/></a>
-<a href = "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
-<a href = "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkit.com/png/full/470-4704009_nodejs-rust-logo-node-js.png" alt="nodejs" width="40" height="40"/></a>
-<a href = "https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/></a>
+    <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white&style=flat" alt="styled-components"/>  
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat" alt="Webpack"/>  
+    <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" alt="Jest"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" alt="Bootstrap"/> 
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat" alt="Next.js"/> 
+    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" alt="Gatsby"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" alt="Angular"/>   
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" alt="Node.js"/> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" alt="MongoDB"/> 
+    <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/> 
 </p>
+
+<a href="https://github.com/itaditya#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
