@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1> 
-<h3 align="center">A wannabe front-end developer </h3>
+<h3 align="center">A wannabe front-end developer, also interested in back-end </h3>
 
 <h3 align="left">Contact with me: </h3>
 <p align="left">
