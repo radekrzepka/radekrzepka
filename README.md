@@ -18,6 +18,7 @@
 <h3 align="left">Currently learning:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"/>
 </p>
 
 <h3 align="left">Want to learn:</h3>
