@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat" alt="Next.js"/> 
     <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" alt="Gatsby"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" alt="Angular"/>   
+    <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=white&style=flat" alt="React-Native"/>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" alt="Node.js"/> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" alt="MongoDB"/> 
     <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/> 
