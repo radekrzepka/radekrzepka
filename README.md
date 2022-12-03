@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1> 
-<p align = "left"> I am a first year student of Computer Science at the Silesian University of Technology. I specialize in creating web application (front-end). I would also like to learn back-end to work as Full-Stack developer.
+<p align = "left"> I am a first year student of Computer Science at the Silesian University of Technology. I am most interested in creating web application (front-end). I would also like to learn back-end to work as Full-Stack developer.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
