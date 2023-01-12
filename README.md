@@ -37,10 +37,3 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" alt="MongoDB"/> 
     <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/> 
 </p>
-
-<a href="https://github.com/itaditya#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=radekrzepka&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
