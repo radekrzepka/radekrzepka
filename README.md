@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" alt="Firebase"/>    
     <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" alt="Git"/>   
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" alt="GitHub"/>   
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" alt="Figma"/>  
 </p>
 
 <h3 align="left">Currently learning:</h3>
