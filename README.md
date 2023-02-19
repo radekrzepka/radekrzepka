@@ -22,8 +22,6 @@
 
 <h3 align="left">Want to learn:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white&style=flat" alt="styled-components"/>  
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat" alt="Webpack"/>  
     <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" alt="Jest"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
