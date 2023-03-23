@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" alt="Jest"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=flat" alt="Vite"/>
     <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat" alt="Next.js"/> 
     <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" alt="Gatsby"/>
