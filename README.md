@@ -34,3 +34,5 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" alt="MongoDB"/> 
     <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/> 
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=radekrzepka&theme=dark)](https://git.io/streak-stats)
