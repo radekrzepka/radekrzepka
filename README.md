@@ -19,7 +19,9 @@
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=flat" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/> <br>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"/>
 </p>
 
@@ -28,7 +30,6 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=flat" alt="Vite"/>
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/Material UI-007FFF?logo=MUI&logoColor=white&style=flat" alt="Material UI"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" alt="Jest"/>
     <img src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=flat" alt="Cypress"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
