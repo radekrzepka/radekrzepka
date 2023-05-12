@@ -21,9 +21,7 @@
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=flat" alt="Vite"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"/>
 </p>
 
