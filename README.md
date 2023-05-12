@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1> 
-<p align = "left"> I am a first year student of Computer Science at the Silesian University of Technology. I am most interested in creating web application (front-end). I would also like to learn back-end to work as Full-Stack developer in the future.
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,7 +33,8 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=white&style=flat" alt="React-Native"/>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/> 
+    <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" alt="Express"/>
+    <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat" alt="Django"/> 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" alt="PostgreSQL"/> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" alt="MongoDB"/> 
 </p>
