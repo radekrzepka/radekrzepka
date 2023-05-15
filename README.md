@@ -4,6 +4,13 @@
     I'm Radek and my goal is to become a front-end developer. In the future I would also like to learn the back-end to become a full-stack developer.
 </p>
 
+<h3 align="left">Contact me:</h3>
+    <a href="https://www.linkedin.com/in/rados%C5%82aw-rzepka-a87157248/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="linkedin"/></a>
+    <a href = "mailto: radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="gmail"/></a>
+<p align="left">
+    
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="HTML5"/>
