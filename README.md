@@ -30,16 +30,14 @@
 <h3 align="left">Currently learning:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" alt="React"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"/>
 </p>
 
 <h3 align="left">Want to learn:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat" alt="Next.js"/> 
     <img src="https://img.shields.io/badge/Material UI-007FFF?logo=MUI&logoColor=white&style=flat" alt="Material UI"/>
-    <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" alt="Jest"/>
-    <img src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=flat" alt="Cypress"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=white&style=flat" alt="React-Native"/>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" alt="Node.js"/>
