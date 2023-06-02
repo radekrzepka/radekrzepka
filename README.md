@@ -17,18 +17,13 @@
     <img src="https://img.shields.io/badge/CSS Modules-000000?logo=CSS Modules&logoColor=white&style=for-the-badge" alt="CSS Modules"/> 
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/> <br>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase"/> <br>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Strapi-2F2E8B?logo=Strapi&logoColor=white&style=for-the-badge" alt="Strapi"/> <br>
     <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" alt="Git"/>   
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite"/>
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode"/>
-</p>
-
-<h3 align="left">Currently learning:</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" alt="Python"/>
 </p>
