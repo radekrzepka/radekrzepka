@@ -9,7 +9,7 @@
     <a href = "https://leetcode.com/radekrzepka/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="leetcode"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools:</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3"/>
@@ -26,5 +26,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite"/>
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
+    <img src="https://img.shields.io/badge/insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode"/>
 </p>
