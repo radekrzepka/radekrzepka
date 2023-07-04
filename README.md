@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
 
 <p align="left"> 
-    I'm Radek and my goal is to become a front-end developer. In the future I would also like to learn the back-end to become a full-stack developer.
+    I'am Radek and I'm a front-end developer. In the future I would also like to learn the back-end to become a full-stack developer.
 </p>
+
 <p align="left">
-        <a href="https://www.linkedin.com/in/rados%C5%82aw-rzepka-a87157248/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
+    <a href="https://www.linkedin.com/in/rados%C5%82aw-rzepka-a87157248/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
     <a href = "mailto:radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/></a>
-    <a href = "https://leetcode.com/radekrzepka/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="leetcode"/></a>
+</p>
+
+<h3 align="left">Currently working on:</h3>
+
+<p align="left">
+    <ul>
+        <li><a href="https://github.com/radekrzepka/chess-profile-analyzer">chess-profile-analyzer</a> - app for analyzing your and yours opponents best opennings on lichess.org</li>
+        <li><a href="https://github.com/radekrzepka/kodent-website">kodent-website</a> - website for dental office</li>
+    </ul>
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
+
 <p align="left"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3"/>
