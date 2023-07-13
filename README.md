@@ -14,6 +14,7 @@
 <p align="left">
     <ul>
         <li><a href="https://github.com/radekrzepka/chess-profile-analyzer">chess-profile-analyzer</a> - app for analyzing your and yours opponents best opennings on lichess.org</li>
+        <li><a href="https://github.com/radekrzepka/quizzler-frontend">quizzler-frontend</a> - frontend for quiz and flashcards app, backend made by <a href="https://github.com/ziebamikolaj">Mikołaj Zięba</a></li>
     </ul>
 </p>
 
