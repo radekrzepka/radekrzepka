@@ -28,8 +28,11 @@
     <img src="https://img.shields.io/badge/CSS Modules-000000?logo=CSS Modules&logoColor=white&style=for-the-badge" alt="CSS Modules"/> 
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/> <br>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/> <br>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React Query-FF4154?logo=React Query&logoColor=white&style=for-the-badge" alt="React Query"/> 
+    <img src="https://img.shields.io/badge/react hook form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" alt="React Hook Form"/> <br>
 </p>
 
 <h3 align="left">Backend:</h3>
