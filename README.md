@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/> <br>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux"/>
     <img src="https://img.shields.io/badge/React Query-FF4154?logo=React Query&logoColor=white&style=for-the-badge" alt="React Query"/> 
     <img src="https://img.shields.io/badge/react hook form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" alt="React Hook Form"/> <br>
 </p>
