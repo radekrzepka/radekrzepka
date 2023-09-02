@@ -37,6 +37,9 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left"> 
+    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=tRPC&logoColor=white&style=for-the-badge" alt="tRPC"/>
+    <img src="https://img.shields.io/badge/prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Strapi-2F2E8B?logo=Strapi&logoColor=white&style=for-the-badge" alt="Strapi"/> <br>
 </p>
