@@ -9,7 +9,7 @@
     <a href = "mailto:radoslawrzepka02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/></a>
 </p>
 
-<h3 align="left">Currently working on:</h3>
+<h2 align="left">Currently working on:</h3>
 
 <p align="left">
     <ul>
@@ -17,7 +17,7 @@
     </ul>
 </p>
 
-<h3 align="left">Skills and Tools:</h3>
+<h2 align="left">Skills and Tools:</h3>
 
 <h3 align="left">Frontend:</h3>
 <p align="left"> 
