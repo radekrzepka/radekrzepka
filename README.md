@@ -24,21 +24,18 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge" alt="Sass"/>
-    <img src="https://img.shields.io/badge/CSS Modules-000000?logo=CSS Modules&logoColor=white&style=for-the-badge" alt="CSS Modules"/> 
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/> <br>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React"/>
-    <img src="https://img.shields.io/badge/React Query-FF4154?logo=React Query&logoColor=white&style=for-the-badge" alt="React Query"/> 
-    <img src="https://img.shields.io/badge/react hook form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" alt="React Hook Form"/>
     <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge" alt="Next.js"/> <br>
 </p>
 
 <h3 align="left">Backend:</h3>
 <p align="left"> 
-    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=tRPC&logoColor=white&style=for-the-badge" alt="tRPC"/>
-    <img src="https://img.shields.io/badge/prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma"/> <br>
+    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=tRPC&logoColor=white&style=for-the-badge" alt="tRPC"/> <br>
     <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql"/>
+        <img src="https://img.shields.io/badge/prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma"/> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase"/> <br>
     <img src="https://img.shields.io/badge/Strapi-2F2E8B?logo=Strapi&logoColor=white&style=for-the-badge" alt="Strapi"/> <br>
 </p>
