@@ -49,5 +49,5 @@
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="vercel"/> <br>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode"/>
     <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" alt="Prettier"/>
-    <img src="https://img.shields.io/badge/ES Lint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ES Lint"/>
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ES Lint"/>
 </p>
