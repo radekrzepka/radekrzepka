@@ -43,9 +43,11 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
     <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" alt="Git"/>   
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub"/> <br>
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite"/>
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="vercel"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="vercel"/> <br>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode"/>
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" alt="Prettier"/>
+    <img src="https://img.shields.io/badge/ES Lint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ES Lint"/>
 </p>
