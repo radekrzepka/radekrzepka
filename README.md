@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub"/> <br>
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite"/>
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
+    <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white&style=for-the-badge" alt="pnpm"/>
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="vercel"/> <br>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode"/>
     <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" alt="Prettier"/>
