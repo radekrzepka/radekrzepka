@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
 
 <p align="left"> 
-    I'am Radek and I'm a front-end developer. In the future I would also like to learn the back-end to become a full-stack developer.
+    I'am Radek and I'm a full-stack developer.
 </p>
 
 <p align="left">
@@ -33,10 +33,12 @@
 </p>
 
 <h3 align="left">Backend:</h3>
-<p align="left"> 
+<p align="left">
+    <img src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" alt="Nodejs"/>
+    <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" alt="Express"/>
     <img src="https://img.shields.io/badge/tRPC-2596BE?logo=tRPC&logoColor=white&style=for-the-badge" alt="tRPC"/> <br>
     <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql"/>
-        <img src="https://img.shields.io/badge/prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma"/> 
+    <img src="https://img.shields.io/badge/prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge" alt="Prisma"/> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase"/> <br>
     <img src="https://img.shields.io/badge/Strapi-2F2E8B?logo=Strapi&logoColor=white&style=for-the-badge" alt="Strapi"/> <br>
 </p>
