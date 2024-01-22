@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Radosław Rzepka</h1>
-
-<p align="left"> 
-    I'am Radek and I'm a full-stack developer.
-</p>
+<h1 align="left"> 
+    Hi 👋, I'm Radek Rzepka and I'm a full-stack developer.
+</h1>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rados%C5%82aw-rzepka-a87157248/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
