@@ -12,7 +12,7 @@
 <p align="left">
     <ul>
         <li><a href="https://github.com/radekrzepka/quizzler-frontend">quizzler-frontend</a> - frontend for quiz and flashcards app, backend made by <a href="https://github.com/ziebamikolaj">Mikołaj Zięba</a></li>
-        <li><a href="https://github.com/radekrzepka/quizzler-frontend">live-chat-app</a> - live chat app made in express and next.js</li>
+        <li><a href="https://github.com/radekrzepka/live-chat-app">live-chat-app</a> - live chat app made in express and next.js</li>
     </ul>
 </p>
 
